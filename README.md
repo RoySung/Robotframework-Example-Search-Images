@@ -8,9 +8,7 @@
 
 - preinstall
   - python、pip
-- pip install robotframework==3.0.2 &&
-                selenium==3.1.1 &&
-                robotframework-selenium2library==1.8.0
+- pip install robotframework selenium robotframework-selenium2library
 - browser driver
   - [Chrome](https://chromedriver.storage.googleapis.com/index.html?path=2.38/)
   - [Firefox](https://github.com/mozilla/geckodriver/releases)

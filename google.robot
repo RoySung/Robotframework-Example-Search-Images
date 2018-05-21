@@ -26,7 +26,6 @@ Valid Google Search
 Open Browser To Google
     Open Browser With Maximize Window    https://images.google.com.tw/
     Maximize Browser Window
-    # Go To    https://images.google.com.tw/
 
 Google Should Be Open
     Title Should Be    Google 圖片
